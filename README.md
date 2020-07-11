@@ -1,4 +1,4 @@
-[(https://user-images.githubusercontent.com/64775878/87229843-2b9bac80-c3de-11ea-93da-799972d414c6.jpg)]
+[![](https://user-images.githubusercontent.com/64775878/87229843-2b9bac80-c3de-11ea-93da-799972d414c6.jpg)]
 
 <!--
 **Loyloyy/Loyloyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
