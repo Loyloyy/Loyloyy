@@ -6,4 +6,6 @@
 
 ### You may also find latest and interesting projects I have embarked on below under the 'Pinned' section.
 
-### I am open to any collaborations as I am always on the lookout to find something interesting from data and using Machine Learning. You may reach me at atan091@e.ntu.edu.sg 📫📫
+### I am open to any collaborations as I am always on the lookout to find something interesting from data and using Machine Learning. 
+
+### You may reach me at atan091@e.ntu.edu.sg 📫📫
