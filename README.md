@@ -8,4 +8,4 @@
 
 ### I am open to any collaborations as I am always on the lookout to find something interesting from data and using Machine Learning. 
 
-## You may reach me at atan091@e.ntu.edu.sg 📫📫
+## You may reach me at aloysiustck@hotmail.com 📫📫
