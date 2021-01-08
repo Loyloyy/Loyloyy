@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub! 👋👋
 
-# Will resume posting more back next year! Concentrating on my new work for now ;)
+# Will resume posting more in a few months! Concentrating on my new work for now ;)
 
 ### You may find my Data Science Portfolio [here](https://loyloyy.github.io/Portfolio_Website/) where I have consolidated and given a quick summary of my past projects in a reader friendly format 😄
 
