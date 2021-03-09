@@ -2,8 +2,6 @@
 
 ### Welcome to my GitHub! 👋👋
 
-# Will resume posting more in a few months! Concentrating on my new work for now ;)
-
 ### You may find my Data Science Portfolio [here](https://loyloyy.github.io/Portfolio_Website/) where I have consolidated and given a quick summary of my past projects in a reader friendly format 😄
 
 ### You may also find latest and interesting projects I have embarked on below under the 'Pinned' section.
