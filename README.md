@@ -8,7 +8,7 @@
 
 ### I am open to any collaborations as I am always on the lookout to find something interesting from data and using Machine Learning. 
 
-## You may reach me at aloysiustck@hotmail.com 📫📫
+## You may reach me at aloysiustck@gmail.com 📫📫
 
 
 **
